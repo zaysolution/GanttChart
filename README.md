@@ -1,1 +1,1 @@
-# GanttChart
+# GanttChart application integrated with attendance system
